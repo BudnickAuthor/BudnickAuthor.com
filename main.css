@@ -10,3 +10,5 @@
 #ATApic{width:175px; height:240px;right:360px; margin-top:5px;}
 .right{float:right; width:44%;}
 .imgright {float:right; width:44%;}
+.reserve {bottom:500;}
+#end {position:absolute; font-size:12px;}
